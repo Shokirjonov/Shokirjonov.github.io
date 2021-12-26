@@ -461,3 +461,7 @@ p .link2{
 .link2:hover::after{
     width: 0;
 }
+
+form{
+    color: #ffffff;
+}
